@@ -8,7 +8,7 @@ The website consists of two main pages: **Home** and **Contact**.
 - **Contact Page** – Provides contact details or a way for visitors to reach out.
 
 ### How to view
--You can access my portfolio website by visiting [link] feel free to explore the content and get in touch.
+-You can access my portfolio website by visiting https://priyadharshini041199.github.io/Protfolio-Website/ feel free to explore the content and get in touch.
 
 ### Features
 - Clean and minimal design
